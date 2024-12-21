@@ -17,7 +17,7 @@ assignees: ''
  ### Acceptance Criteria
    
  ```gherkin
- Given [some context],
- when [certain action is taken],
- then [the outcome of action is observed].
+ Given [some context]
+ When [certain action is taken]
+ Then [the outcome of action is observed]
  ```
